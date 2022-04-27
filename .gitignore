@@ -2,6 +2,7 @@
 config.py
 Resources/ratings.csv
 archive/
+SQL_queries/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
