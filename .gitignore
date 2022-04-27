@@ -1,5 +1,6 @@
-# ignore config.py file
+# ignore locally stored files
 config.py
+archive/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
