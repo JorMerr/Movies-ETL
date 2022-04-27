@@ -13,8 +13,9 @@ Once the initial function was created, the code was then used to create the appr
 
 ![movies_query](https://github.com/JorMerr/Movies-ETL/blob/main/Resources/movies_query.PNG)
 
-The following image shows the much larger ratings_file storing the transformed data from the original ratings.csv file has been loaded correctly. The original ratings.csv file was one of the larger file sizes of our original dataset at approximately 692MB, much larger than the file size limit for GitHub remote storage. 
+The following image shows the much larger ratings_file storing the transformed data from the original ratings.csv file has been loaded correctly. 
 
 ![ratings_query](https://github.com/JorMerr/Movies-ETL/blob/main/Resources/ratings_query.PNG)
 
-Project completed by Jordan Merritt
+The original ratings.csv file was one of the larger file sizes of our original dataset at approximately 692MB, much larger than the file size limit for GitHub remote storage. 
+
