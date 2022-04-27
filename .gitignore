@@ -1,5 +1,6 @@
 # ignore locally stored files
 config.py
+Resources/ratings.csv
 archive/
 
 # Byte-compiled / optimized / DLL files
